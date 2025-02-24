@@ -1,3 +1,5 @@
+
+Salary Expectations: 20-30$ per hour 
 Movie Recommendation System
 
 Dataset Information
